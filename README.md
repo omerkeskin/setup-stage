@@ -6,3 +6,5 @@ Setup environment bash scripts
 
 To reset mysql password :
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('new_password');
+
+# Download macos mysql separately
